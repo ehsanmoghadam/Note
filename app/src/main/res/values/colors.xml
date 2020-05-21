@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CDDC39</color>
+    <color name="colorPrimaryDark">#AFB42B</color>
+    <color name="colorAccent">#FFEB3B</color>
+    <color name="white">#fff</color>
+    <color name="toolbar_actionbarMode" >#827717</color>
+    <color name="item_selected" >#E0E0E0</color>
+    <color name="date" >#0D47A1</color>
+
+</resources>
